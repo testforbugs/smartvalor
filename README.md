@@ -1,0 +1,2 @@
+# smartvalor
+testforsubdomain takeover
